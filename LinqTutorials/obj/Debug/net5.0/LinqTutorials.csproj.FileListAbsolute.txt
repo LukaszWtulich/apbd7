@@ -1,0 +1,15 @@
+D:\apbd\7\project7\LinqCwiczenia\LinqTutorials\bin\Debug\net5.0\LinqTutorials.exe
+D:\apbd\7\project7\LinqCwiczenia\LinqTutorials\bin\Debug\net5.0\LinqTutorials.deps.json
+D:\apbd\7\project7\LinqCwiczenia\LinqTutorials\bin\Debug\net5.0\LinqTutorials.runtimeconfig.json
+D:\apbd\7\project7\LinqCwiczenia\LinqTutorials\bin\Debug\net5.0\LinqTutorials.runtimeconfig.dev.json
+D:\apbd\7\project7\LinqCwiczenia\LinqTutorials\bin\Debug\net5.0\LinqTutorials.dll
+D:\apbd\7\project7\LinqCwiczenia\LinqTutorials\bin\Debug\net5.0\LinqTutorials.pdb
+D:\apbd\7\project7\LinqCwiczenia\LinqTutorials\obj\Debug\net5.0\LinqTutorials.GeneratedMSBuildEditorConfig.editorconfig
+D:\apbd\7\project7\LinqCwiczenia\LinqTutorials\obj\Debug\net5.0\LinqTutorials.AssemblyInfoInputs.cache
+D:\apbd\7\project7\LinqCwiczenia\LinqTutorials\obj\Debug\net5.0\LinqTutorials.AssemblyInfo.cs
+D:\apbd\7\project7\LinqCwiczenia\LinqTutorials\obj\Debug\net5.0\LinqTutorials.csproj.CoreCompileInputs.cache
+D:\apbd\7\project7\LinqCwiczenia\LinqTutorials\obj\Debug\net5.0\LinqTutorials.dll
+D:\apbd\7\project7\LinqCwiczenia\LinqTutorials\obj\Debug\net5.0\refint\LinqTutorials.dll
+D:\apbd\7\project7\LinqCwiczenia\LinqTutorials\obj\Debug\net5.0\LinqTutorials.pdb
+D:\apbd\7\project7\LinqCwiczenia\LinqTutorials\obj\Debug\net5.0\LinqTutorials.genruntimeconfig.cache
+D:\apbd\7\project7\LinqCwiczenia\LinqTutorials\obj\Debug\net5.0\ref\LinqTutorials.dll
